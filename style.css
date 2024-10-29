@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background:linear-gradient(to right, #7a927f,#bfa0d6);
+}
+h1,h2{
+    text-align: center;
+    text-transform: uppercase;
+    color:rgb(0,0,0.1,1);
+    letter-spacing: .5em;
+    width:100%;
+    top:15%;
+}
